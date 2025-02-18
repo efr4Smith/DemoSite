@@ -1,0 +1,106 @@
+.contact-page,
+.contact-page * {
+  box-sizing: border-box;
+}
+.contact-page {
+  background: #37768d;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.contact {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-ExtraBold", sans-serif;
+  font-size: 25px;
+  font-weight: 800;
+  position: absolute;
+  left: 1291px;
+  top: 65px;
+  width: 156px;
+  height: 26px;
+}
+.about {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-ExtraBold", sans-serif;
+  font-size: 25px;
+  font-weight: 800;
+  position: absolute;
+  left: 1143px;
+  top: 65px;
+  width: 156px;
+  height: 26px;
+}
+.homepage {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-ExtraBold", sans-serif;
+  font-size: 25px;
+  font-weight: 800;
+  position: absolute;
+  left: 947px;
+  top: 65px;
+  width: 156px;
+  height: 26px;
+}
+.bmgt-407 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-ExtraBold", sans-serif;
+  font-size: 25px;
+  font-weight: 800;
+  position: absolute;
+  left: 121px;
+  top: 65px;
+  width: 156px;
+  height: 26px;
+}
+.contact-us {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 60px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 538px);
+  top: 264px;
+  width: 1070px;
+  height: 117px;
+}
+.reach-out-to-the-course-team-for-support-or-inquiries {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 177px;
+  top: 351px;
+  width: 750px;
+  height: 59px;
+}
+.professor-contact-paul-t-shapiro-pshapiro-umd-edu {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 182px;
+  top: 410px;
+  width: 1094px;
+  height: 53px;
+}
+.ta-contact-bharath-sreekumar-bskreekum-umd-edu-caifu-lin-clin-0817-terpmail-umd-edu-sumanth-devara-sdevara-umd-edu {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 182px;
+  top: 512px;
+  width: 459px;
+  height: 94px;
+}

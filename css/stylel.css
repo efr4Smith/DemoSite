@@ -1,0 +1,106 @@
+.landing-page,
+.landing-page * {
+  box-sizing: border-box;
+}
+.landing-page {
+  background: #37768d;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.contact {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-ExtraBold", sans-serif;
+  font-size: 25px;
+  font-weight: 800;
+  position: absolute;
+  left: 1291px;
+  top: 65px;
+  width: 156px;
+  height: 26px;
+}
+.about {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-ExtraBold", sans-serif;
+  font-size: 25px;
+  font-weight: 800;
+  position: absolute;
+  left: 1143px;
+  top: 65px;
+  width: 156px;
+  height: 26px;
+}
+.homepage {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-ExtraBold", sans-serif;
+  font-size: 25px;
+  font-weight: 800;
+  position: absolute;
+  left: 947px;
+  top: 65px;
+  width: 156px;
+  height: 26px;
+}
+.bmgt-407 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-ExtraBold", sans-serif;
+  font-size: 25px;
+  font-weight: 800;
+  position: absolute;
+  left: 121px;
+  top: 65px;
+  width: 156px;
+  height: 26px;
+}
+.lets-create-a-website-design {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 60px;
+  font-weight: 400;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 293px;
+  width: 1070px;
+  height: 117px;
+}
+.today-let-s-create-a-sample-website-design-in-figma-and-export-its-corresponding-html-and-css-code {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  left: 360px;
+  top: 440px;
+  width: 750px;
+  height: 59px;
+}
+.rectangle-1 {
+  background: #a8ff35;
+  border-radius: 10px;
+  width: 180px;
+  height: 57px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 560px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.get-started {
+  color: #000000;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 649px;
+  top: 572px;
+  width: 171px;
+  height: 17px;
+}
